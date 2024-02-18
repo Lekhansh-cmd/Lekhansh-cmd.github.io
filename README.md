@@ -30,7 +30,7 @@
 
 🎓 **Education:**  
    - MSc in Data Science and Network Intelligence - Telecom SudParis, Institut Polytechnique de Paris (Sept 2022 - Dec 2023)
-   - Courses: Business Modeling, Machine Learning, Deep Learning, Data Visualization, Wireless Access Network, Network Intelligence, In Network Computing, Blockchain for Data Scientists
+     Courses: Business Modeling, Machine Learning, Deep Learning, Data Visualization, Wireless Access Network, Network Intelligence, In Network Computing, Blockchain for Data Scientists
    - Bachelor‘s Degree in Electrical and Electronics Engineering - Amity University (2012-2016)
 
 💼 **Experience:**  
@@ -73,9 +73,9 @@
    - Generation using Stable Diffusion.
 2.  **Exploring Mistral 8 X 7B** (February 2023)
    - Text Generation using Mistral 7B Model, built on Google Collab.
-3. **SEMEVAL 2023: Explainable Detection Of Sexism** (Oct 2022 - Dec 2022)  
+4. **SEMEVAL 2023: Explainable Detection Of Sexism** (Oct 2022 - Dec 2022)  
    - **Objective:** Performing multi-class text classification to detect explainable features of sexism using LLMs like BERT, ROBERTa, DISTILBERT, etc.
-4. **Market Segmentation of Credit Card Customers** (Nov 2022)  
+5. **Market Segmentation of Credit Card Customers** (Nov 2022)  
    - Analyzed the behavior of credit card customers using non-supervised learning clustering techniques such as K-Means, Agglomerative, and DBSCAN.
-5. **Integration of 5G and IoT: Applications and Challenges** (Dec 2022)  
+6. **Integration of 5G and IoT: Applications and Challenges** (Dec 2022)  
    - Wrote and submitted a study paper to discuss the integration of 5G and IoT, its possible applications, and the challenges.
