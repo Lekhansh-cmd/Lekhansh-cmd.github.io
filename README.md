@@ -1,40 +1,32 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+# About Me
 
-   # About Me
-   👋 **Hello! I'm [Your Name], a passionate data scientist with a strong background in engineering and data analysis. I hold a Master's degree in Data Science and Network Intelligence from Telecom SudParis, Institut 
-    Polytechnique de Paris, and a Bachelor's degree in Engineering from Amity University.**
+👋 **Hello! I'm Lekhansh, a passionate data scientist with a strong background in engineering and data analysis. I hold a Master's degree in Data Science and Network Intelligence from Telecom SudParis, Institut Polytechnique de Paris, and a Bachelor's degree in Engineering from Amity University.**
 
-   🚀 **In my professional journey, I've had the opportunity to work on diverse projects and gain hands-on experience in various domains. During my internship at Renault in Gaillon-Aubevoye, France, I contributed to 
-   enhancing efficiency by identifying IT and software engineering improvements for the Thermal Test and Validation Team.**
+🚀 **In my professional journey, I've had the opportunity to work on diverse projects and gain hands-on experience in various domains. During my internship at Renault in Gaillon-Aubevoye, France, I contributed to enhancing efficiency by identifying IT and software engineering improvements for the Thermal Test and Validation Team.**
 
-  🔍 **As a Senior Analyst at Vaco Binary Semantics in India, I spearheaded projects such as the 'Feed Management' project for Google Shopping ads, achieving significant efficiency gains through the use of GSuite tools 
-  and effective data analysis. Additionally, my role at eTouch Systems involved leading onsite engagements for Google, refining process strategies, and fostering a collaborative work environment through employee 
-  training.**
+🔍 **As a Senior Analyst at Vaco Binary Semantics in India, I spearheaded projects such as the 'Feed Management' project for Google Shopping ads, achieving significant efficiency gains through the use of GSuite tools and effective data analysis. Additionally, my role at eTouch Systems involved leading onsite engagements for Google, refining process strategies, and fostering a collaborative work environment through employee training.**
 
-  💻 **My technical expertise spans a wide range of programming languages, data analysis, visualization tools, cloud platforms, and machine learning frameworks. I'm proficient in SQL, Python, and RStudio, and 
-  experienced in using tools like Looker, Tableau, and Power BI for data analysis and visualization. Moreover, my certifications in data science and industrial training further enhance my skill set.**
+💻 **My technical expertise spans a wide range of programming languages, data analysis, visualization tools, cloud platforms, and machine learning frameworks. I'm proficient in SQL, Python, RStudio, and experienced in using tools like Looker, Tableau, and Power BI for data analysis and visualization. Moreover, my certifications in data science and industrial training further enhance my skill set.**
 
-  🌐 **Apart from my professional endeavors, I'm fluent in English (C2 - Native) and have an intermediate level of proficiency in French (B1). My passion for continuous learning, analytical thinking, and collaborative 
-  work drives me to excel in every project I undertake.**
+🌐 **Apart from my professional endeavors, I'm fluent in English (C2 - Native) and have an intermediate level of proficiency in French (B1). My passion for continuous learning, analytical thinking, and collaborative work drives me to excel in every project I undertake.**
 
-  🏆 **I take pride in my achievements, including consistently delivering exceptional results for Google's KPIs, leading successful projects, and contributing to a positive work culture.**
+🏆 **I take pride in my achievements, including consistently delivering exceptional results for Google's KPIs, leading successful projects, and contributing to a positive work culture.**
 
-  🚀 **I'm excited to continue exploring new challenges, leveraging my skills, and making meaningful contributions to the field of data science and beyond.**
+🚀 **I'm excited to continue exploring new challenges, leveraging my skills, and making meaningful contributions to the field of data science and beyond.**
 
 
-   🔧 ##Technical Skills:  
-    **Programming Languages:** Python, RStudio, SQL
-      - **Data Analysis and Visualization:** Looker, Tableau, Power BI, QlikSense
-      - **Google Stack:** Excel/Sheet, BigQuery, Looker
-      - **Version Control:** Git 
-      - **Cloud Platform:** Google Cloud Platform 
-      - **Data Science Stack:** TensorFlow, Scikit-learn 
-      - **IDE:** Google Colab, Jupyter Notebook, Visual Studio Code, PyCharm, PyScripter
+🔧 **Technical Skills:**  
+   - **Programming Languages:** SQL, Python, RStudio 
+   - **Data Analysis and Visualization:** Looker, Tableau, Power BI, QlikSense
+   - **Google Stack:** Excel/Sheet, BigQuery, Looker
+   - **Version Control:** Git 
+   - **Cloud Platform:** Google Cloud Platform 
+   - **Data Science Stack:** TensorFlow, Scikit-learn 
+   - **IDE:** Google Colab, Jupyter Notebook, Visual Studio Code, PyCharm, PyScripter
 
-   🌐 **Languages:**  
-      - English - C2 (Native)
-      - French - B1 (Intermediate)
-</div>
+🌐 **Languages:**  
+   - English - C2 (Native)
+   - French - B1 (Intermediate)
 
 🎓 **Education:**  
    - MSc in Data Science and Network Intelligence - Telecom SudParis, Institut Polytechnique de Paris (Sept 2022 - Dec 2023)
@@ -61,7 +53,7 @@
 
 📜 **Certifications:**  
    - **British Airways - Data Science Job Simulation** (Nov 2023)
-   - Objective:  Customer Review Analysis: Performed Web Scrapping, Topic Modelling and Sentimental Analysis to unearth valuable insights.
+   - Objective:  Customer Review Analysis: Performed Web Scraping, Topic Modelling, and Sentimental Analysis to unearth valuable insights.
    - **Simplilearn - Certified Data Scientist** (Apr 2021)
    - Certified in Python Programming Language, Machine Learning, Data Science using R, Tableau for Data Visualization, Big Data
    - **Havells** - Industrial Training (May 2015 - Jun 2015)
@@ -74,11 +66,16 @@
 
 # Projects
 
-1. **SEMEVAL 2023: Explainable Detection Of Sexism** (Oct 2022 - Dec 2022)  
+1. **Applications for Open Source Generative AI Models** (January 2023)
+   - The objective of this project is to explore various AI models and deploy applications using Gradio, a web-based interface for machine learning models. The project focuses on three main tasks:
+   - Building an AI Tutor using the Dolly 3B model.
+   - Text Generation Using the Falcon 7B model.
+   - Generation using Stable Diffusion.
+2.  **Exploring Mistral 8 X 7B** (February 2023)
+   - Text Generation using Mistral 7B Model, built on Google Collab.
+3. **SEMEVAL 2023: Explainable Detection Of Sexism** (Oct 2022 - Dec 2022)  
    - **Objective:** Performing multi-class text classification to detect explainable features of sexism using LLMs like BERT, ROBERTa, DISTILBERT, etc.
-
-2. **Market Segmentation of Credit Card Customers** (Nov 2022)  
+4. **Market Segmentation of Credit Card Customers** (Nov 2022)  
    - Analyzed the behavior of credit card customers using non-supervised learning clustering techniques such as K-Means, Agglomerative, and DBSCAN.
-
-3. **Integration of 5G and IoT: Applications and Challenges** (Dec 2022)  
+5. **Integration of 5G and IoT: Applications and Challenges** (Dec 2022)  
    - Wrote and submitted a study paper to discuss the integration of 5G and IoT, its possible applications, and the challenges.
