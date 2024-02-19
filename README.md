@@ -66,12 +66,14 @@
 
 # Projects
 
-1. **Applications for Open Source Generative AI Models** (January 2023)
+1. **Direct Marketing Optimization - Bank Case Study** (February 2023)
+Task: Utilize dummy data to enhance revenue through direct marketing optimization by creating analytical datasets, developing propensity models for consumer loans, credit cards, and mutual funds, and targeting clients strategically to maximize revenue while considering the constraint of contacting only 15% of clients and targeting each client only once.
+2. **Applications for Open Source Generative AI Models** (January 2023)
    - The objective of this project is to explore various AI models and deploy applications using Gradio, a web-based interface for machine learning models. The project focuses on three main tasks:
-   - Building an AI Tutor using the Dolly 3B model.
+   - Building an AI Physics Tutor using the Dolly 3B model.
    - Text Generation Using the Falcon 7B model.
-   - Generation using Stable Diffusion.
-2.  **Exploring Mistral 8 X 7B** (February 2023)
+   - Image Generation using Stable Diffusion.
+3.  **Exploring Mistral 8 X 7B** (February 2023)
    - Text Generation using Mistral 7B Model, built on Google Collab.
 4. **SEMEVAL 2023: Explainable Detection Of Sexism** (Oct 2022 - Dec 2022)  
    - **Objective:** Performing multi-class text classification to detect explainable features of sexism using LLMs like BERT, ROBERTa, DISTILBERT, etc.
